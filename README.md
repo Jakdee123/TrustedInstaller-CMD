@@ -6,10 +6,11 @@ What it does is essentially is it starts a cmd process with TrustedInstaller as 
 You have to run it as administrator for it to work. (Unless you already have the TrustedInstaller service running)
 
 If it gives you the error:
+```batch
 [SC] StartService FAILED 1056:
 
 An instance of the service is already running.
-
+```
 Ignore it. It doesn't mean anything bad
 
 
